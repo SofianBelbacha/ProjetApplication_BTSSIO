@@ -1,0 +1,66 @@
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.Up2Date
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\sofia\Documents\Etude\BTSSIO\O.Albert\Atelier Professionnelles\version windows\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+E:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.dll
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.Up2Date
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+D:\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\sofian.belbacha\Desktop\Nouveaux_AP\windows\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CopyComplete
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+E:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.dll
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.Up2Date
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+D:\Nouveaux_AP\windows\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.dll
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.Up2Date
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.dll
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\bin\Debug\GestionBD.pdb
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\bin\Debug\MySql.Data.xml
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.CoreCompileInputs.cache
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.csproj.Up2Date
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.dll
+C:\Users\sofia\Desktop\Belbacha_E5_Situation2_WINDOWS_SOURCES\BelbachaBoutique\GestionBD\obj\Debug\GestionBD.pdb

@@ -1,0 +1,2 @@
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBoutiqueTests\obj\Debug\GestionBoutiqueTests.csproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\E5_Belbacha\Belbacha_E5_Situation2_WINDOWS_SOURCES\Winsdows_V2\BelbachaBoutique\GestionBoutiqueTests\obj\Debug\GestionBoutiqueTests.csproj.CoreCompileInputs.cache
