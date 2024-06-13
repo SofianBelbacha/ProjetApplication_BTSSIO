@@ -9,7 +9,7 @@ namespace GestionBD.MySQL //Exemple de nom de namespace bien approprié pour ran
     internal static class MysqlConfig
     {
         public const string SERVEUR = "localhost";
-        public const string BASE = "belbachaboutique";
+        public const string BASE = "belbachaboutiquehardware";
         public const string UTILISATEUR = "root";
         public const string MOT_DE_PASSE = "";
         //public const string SERVEUR = "ent.btssio.net";
